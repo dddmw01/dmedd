@@ -1,4 +1,4 @@
-@import url("assets/css/font-awesome.min.css");
+@import url("font-awesome.min.css");
 
 /*
 	Landed by HTML5 UP
@@ -16,7 +16,7 @@
 ::-webkit-scrollbar-resizer{background-color:#FF6E00}
 @font-face {
   font-family: MyFont;
-  src: url("/assets/css/fonts/font.otf");
+  src: url("font.otf");
 }
 	body, input, select, textarea {
   /*font-family: 'MyFont', 'Open Sans', 'Microsoft YaHei', sans-serif!important;*/
@@ -3389,7 +3389,7 @@
 	#banner {
 		background-attachment: fixed;
 		background-color: #272833;
-		background-image: url("assets/images/pic000.jpg");
+		background-image: url("../assets/images/pic000.jpg");
 		background-position: center center;
 		background-size: cover;
 		box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);
