@@ -16,7 +16,7 @@
 ::-webkit-scrollbar-resizer{background-color:#FF6E00}
 @font-face {
   font-family: MyFont;
-  src: url("/assets/fonts/font.otf");
+  src: url("/assets/css/fonts/font.otf");
 }
 	body, input, select, textarea {
   /*font-family: 'MyFont', 'Open Sans', 'Microsoft YaHei', sans-serif!important;*/
